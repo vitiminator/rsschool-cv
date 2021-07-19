@@ -1,1 +1,1 @@
-# rsschool-cv
+https://vitiminator.github.io/rsschool-cv/cv
